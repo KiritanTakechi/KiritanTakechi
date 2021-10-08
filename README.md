@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### www
+![Kiritan's Github Stats](https://github-readme-stats.vercel.app/api?username=1090549930&show_icons=true&theme=highcontrast)
 <!--
 **1090549930/1090549930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
