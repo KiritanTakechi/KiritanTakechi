@@ -1,5 +1,8 @@
-### www
-![Kiritan's Github Stats](https://github-readme-stats.vercel.app/api?username=1090549930&show_icons=true&theme=highcontrast)
+### ~
+![Kiritan's Github Stats](https://github-readme-stats.vercel.app/api?username=1090549930&hide=issues&hide_title=true&include_all_commits=true&show_icons=true&theme=highcontrast)
+
+
+
 <!--
 **1090549930/1090549930** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
