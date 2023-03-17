@@ -1,5 +1,4 @@
-//const accessToken = process.env.GITHUB_ACCESS_TOKEN;
-const accessToken = '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';
+const accessToken = process.env.GITHUB_ACCESS_TOKEN;
 
 fetch('https://api.github.com/user/repos', {
     headers: {
