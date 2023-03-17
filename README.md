@@ -1,15 +1,11 @@
 ### Ciallo～(∠・ω< )⌒★
 Here is [Kiritan](https://github.com/KiritanTakechi) 👋
 
-![Kiritan's Github Stats](https://github-readme-stats.vercel.app/api?username=KiritanTakechi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiritanTakechi)](https://github.com/KiritanTakechi/github-readme-stats)
+![Kiritan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiritanTakechi&hide=issues,contribs&line_height=24&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&text_color=B76E79&title_color=FFB6C1&icon_color=FFB6C1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiritanTakechi&layout=compact&langs_count=10&hide_border=true&bg_color=ffffff00&text_color=B76E79&title_color=FFB6C1)
 
 ![Profile views](https://gpvc.arturio.dev/KiritanTakechi)
 
-
-![Kiritan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KiritanTakechi&hide=issues,contribs&line_height=24&show_icons=true&theme=default&hide_border=true&bg_color=ffffff00&text_color=B76E79&title_color=FFB6C1&icon_color=FFB6C1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiritanTakechi&layout=compact&langs_count=10&hide_border=true&bg_color=ffffff00&text_color=B76E79&title_color=FFB6C1)
 
 
 
